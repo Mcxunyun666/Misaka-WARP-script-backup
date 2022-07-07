@@ -17,7 +17,7 @@ wget -N --no-check-certificate https://raw.githubusercontents.com/Misaka-blog/Mi
 ### Beta 版 （正在完善中，欢迎issues反馈）
 
 ```shell
-wget -N --no-check-certificate https://raw.githubusercontents.com/Misaka-blog/Misaka-WARP-Script/master/beta/misakawarp.sh && bash misakawarp.sh
+wget -N --no-check-certificate https://raw.githubusercontents.com/Mcxunyun666/Misaka-WARP-script-backup/master/beta/misakawarp.sh && bash misakawarp.sh
 ```
 
 快捷方式 `bash misakawarp.sh`
